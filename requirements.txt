@@ -1,0 +1,3 @@
+dnspython==2.*
+joblib==1.*
+alive-progress==2.*
